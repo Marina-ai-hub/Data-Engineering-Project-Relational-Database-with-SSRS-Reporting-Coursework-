@@ -1,4 +1,4 @@
-# Data-Engineering-Project-Relational-Database-with-SSRS-Reporting-Coursework-
+ # Data-Engineering-Project-Relational-Database-with-SSRS-Reporting-Coursework-
 
 **Title:** Design and implementation of a relational database for a multi‑category e‑commerce store with Microsoft SSRS/Report Builder integration.
 
@@ -9,12 +9,12 @@
 
 **Scope and features.**
 
-*Data modelling: DFD0, DFD1, DFD3; infological and datalogical ER models.
+* Data modelling: DFD0, DFD1, DFD3; infological and datalogical ER models.
 
-*Database implementation: DDL for tables, constraints, data types; integrity and indexing.
+* Database implementation: DDL for tables, constraints, data types; integrity and indexing.
 
-*Business logic: stored procedures, user-defined functions, cursors and triggers; views for frequent analytics; parameterised queries for reports.
+* Business logic: stored procedures, user-defined functions, cursors and triggers; views for frequent analytics; parameterised queries for reports.
 
-*Security: role‑based permissions for internal users and external roles: database-level roles for online store employees (system administrator, analyst, manager, accountant, logistics), and application roles for external users (clients, suppliers, delivery person).
+* Security: role‑based permissions for internal users and external roles: database-level roles for online store employees (system administrator, analyst, manager, accountant, logistics), and application roles for external users (clients, suppliers, delivery person).
 
-*Reporting (SSRS). To create reports, a connection was made to a common data source “WebShop”, after which data sets were formed to be used in the design of reports. 
+* Reporting (SSRS). To create reports, a connection was made to a common data source “WebShop”, after which data sets were formed to be used in the design of reports. 
